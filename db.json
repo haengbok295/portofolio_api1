@@ -1,22 +1,22 @@
 {
   "portofolio1" : [{
   "id": 1,
-  "judul": "OSK Matematika 2013",
-  "deskripsi": "Peserta OSK Matematika SMP tahun 2013 tingkat Kabupaten Magelang"
+  "judul": "My Alarm",
+  "deskripsi": "Aplikasi berbasis mobile"
 },
 {
   "id": 2,
-  "judul": "OSK Matematika 2016",
-  "deskripsi": "Peserta OSK Matematika SMA tahun 2016 tingkat Kabupaten Magelang"
+  "judul": "Gantikan",
+  "deskripsi": "Sistem informasi untuk mencari pekerjaan"
 },
 {
   "id": 3,
-  "judul": "ROHIS SMAN 1 Muntilan",
-  "deskripsi": "Anggota Bidang Keilmuan ROHIS SMAN 1 Muntilan periode tahun 2015/2016"
+  "judul": "Idekita",
+  "deskripsi": "Sistem informasi untuk sharing ide"
 },
 {
   "id": 4,
-  "judul": "ROHIS SMAN 1 Muntilan",
-  "deskripsi": "Anggota Bidang Keilmuan ROHIS SMAN 1 Muntilan periode tahun 2015/2016"
+  "judul": "Noob",
+  "deskripsi": "Sistem informasi berita"
 }]
 }
