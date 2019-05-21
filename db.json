@@ -2,21 +2,21 @@
   "portofolio1" : [{
   "id": 1,
   "judul": "My Alarm",
-  "deskripsi": "Aplikasi berbasis mobile berupa alarm dan stopwatch"
+  "deskripsi": "Aplikasi berbasis mobile berupa alarm, stopwatch serta jam dunia"
 },
 {
   "id": 2,
   "judul": "Gantikan",
-  "deskripsi": "Sistem informasi untuk mencari pekerjaan dan mencari pekerja"
+  "deskripsi": "Sistem informasi untuk mencari pekerjaan dan mencari pekerja pengganti"
 },
 {
   "id": 3,
   "judul": "Idekita",
-  "deskripsi": "Sistem informasi untuk sharing ide dan mencari ide"
+  "deskripsi": "Sistem informasi untuk sharing ide dan mencari ide antar sesama pengguna"
 },
 {
   "id": 4,
   "judul": "Noob",
-  "deskripsi": "Sistem informasi berita di Indonesia"
+  "deskripsi": "Sistem informasi berita terkini di Indonesia yang berbasis website"
 }]
 }
